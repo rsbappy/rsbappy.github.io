@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --yellow:#f9ca24;
+    --yellow:#ffd65b;
 }
 
 *{
@@ -89,7 +89,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-flow: column;
+    flex-flow:column;
     text-align: center;
 }
 
@@ -378,11 +378,28 @@ header .navbar ul li a:hover{
     /* height: 400px;
     width: 300px; */
     margin-top: 60px;
-    right: 30px;
+    margin-right: 10px ;
+
+}
+.footer_wrapper {
+    max-width: 100%;
+    background-color: rgb(253 0 0 / 64%);
+    margin-left: 2px;
+}
+
+.footer_wrapper .Copyright{
+
+
+    padding: 1.5rem  ;
+    color: white;
+    margin-left: 40%;
+    font-size: 15px;
 
 }
 
-
+.footer_wrapper .rsbappy{
+    color: orange;
+}
 
 /* media queries  */
 
@@ -521,9 +538,4 @@ header .navbar ul li a:hover{
   #button.show {
     opacity: 1;
     visibility: visible;
-  }
-
-
-  footer a i{
-      margin: auto;
   }
