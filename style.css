@@ -377,8 +377,7 @@ header .navbar ul li a:hover{
 
     /* height: 400px;
     width: 300px; */
-    margin-top: 50px;
-    display: inline-block;
+    margin-top: 60px;
     background-color: #FF9800;
     border-radius: 4px;
     bottom: 30px;
@@ -388,21 +387,6 @@ header .navbar ul li a:hover{
     z-index: 1000;  
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
