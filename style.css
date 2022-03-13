@@ -456,7 +456,7 @@ header .navbar ul li a:hover{
  
  }
 
-@media (max-width:450px){
+@media (max-width:550px){
 
     header{
         width: 100vw;
@@ -486,7 +486,7 @@ header .navbar ul li a:hover{
 
         height: 600px;
         width: 430px; 
-        margin-top: 100px;
+        margin-top: 10px;
         margin-left: 80px;
     }
     
