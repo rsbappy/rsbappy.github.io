@@ -448,6 +448,7 @@ header .navbar ul li a:hover{
         margin-top: 40px;
         margin-right: 400px;
         padding: 0px;
+        overflow: hidden;
 
     }
     
