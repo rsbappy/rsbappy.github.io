@@ -456,7 +456,7 @@ header .navbar ul li a:hover{
     max-width: 100%;
     background-color: rgb(253 0 0 / 64%);
     margin-left: 2px;
-    margin-top: 100px;
+    margin-top: 200px;
 
 }
     .footer_wrapper .Copyright{
@@ -501,8 +501,8 @@ header .navbar ul li a:hover{
 
     .maps {
 
-        height: 100px;
-        width: 130px; 
+        height: 50px;
+        width: 50px; 
         margin-top: 0px;
         margin-left: 80px;
         overflow: hidden;
