@@ -489,6 +489,13 @@ header .navbar ul li a:hover{
         margin-top: 0px;
         margin-left: 80px;
     }
+    .footer_wrapper {
+    max-width: 100%;
+    background-color: rgb(253 0 0 / 64%);
+    margin-left: 2px;
+    margin-top: 100px;
+
+}
     
     
 
